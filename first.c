@@ -39,6 +39,7 @@ bool ListDelete(SqList &L,int i,ElementType&e){
     return true;
 }
 
+
 //find element in list
 int Localelem (SqList L,ElementType e){
     int i;
